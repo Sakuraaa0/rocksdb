@@ -10,6 +10,7 @@
 // Introduction of SyncPoint effectively disabled building and running this test
 // in Release build.
 // which is a pity, it is a good test
+//随便添加测试一下
 #include <fcntl.h>
 
 #include <algorithm>
